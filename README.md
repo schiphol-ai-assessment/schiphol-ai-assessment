@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This Account is used by Schiphols AI Capability to provide job applicants access to assessments and submit their solutions privately.
 <!--
 **schiphol-ai-assessment/schiphol-ai-assessment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
